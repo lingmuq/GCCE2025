@@ -1,0 +1,110 @@
+epoch [1/100], loss:0.7214
+epoch [2/100], loss:0.3770
+epoch [3/100], loss:0.2894
+epoch [4/100], loss:0.2512
+epoch [5/100], loss:0.2276
+epoch [6/100], loss:0.2116
+epoch [7/100], loss:0.1986
+epoch [8/100], loss:0.1879
+epoch [9/100], loss:0.1773
+epoch [10/100], loss:0.1704
+Pixel Auroc:0.830, Sample Auroc:0.595, Pixel Aupro:0.575, Best F1:0.309, Best Threshold:0.425
+epoch [11/100], loss:0.1634
+epoch [12/100], loss:0.1566
+epoch [13/100], loss:0.1509
+epoch [14/100], loss:0.1462
+epoch [15/100], loss:0.1418
+epoch [16/100], loss:0.1374
+epoch [17/100], loss:0.1340
+epoch [18/100], loss:0.1303
+epoch [19/100], loss:0.1269
+epoch [20/100], loss:0.1246
+Pixel Auroc:0.827, Sample Auroc:0.680, Pixel Aupro:0.576, Best F1:0.303, Best Threshold:0.360
+epoch [21/100], loss:0.1218
+epoch [22/100], loss:0.1189
+epoch [23/100], loss:0.1166
+epoch [24/100], loss:0.1145
+epoch [25/100], loss:0.1125
+epoch [26/100], loss:0.1101
+epoch [27/100], loss:0.1086
+epoch [28/100], loss:0.1069
+epoch [29/100], loss:0.1048
+epoch [30/100], loss:0.1032
+Pixel Auroc:0.834, Sample Auroc:0.706, Pixel Aupro:0.575, Best F1:0.313, Best Threshold:0.340
+epoch [31/100], loss:0.1020
+epoch [32/100], loss:0.1005
+epoch [33/100], loss:0.0994
+epoch [34/100], loss:0.0973
+epoch [35/100], loss:0.0966
+epoch [36/100], loss:0.0960
+epoch [37/100], loss:0.0945
+epoch [38/100], loss:0.0928
+epoch [39/100], loss:0.0923
+epoch [40/100], loss:0.0909
+Pixel Auroc:0.839, Sample Auroc:0.692, Pixel Aupro:0.583, Best F1:0.317, Best Threshold:0.333
+epoch [41/100], loss:0.0903
+epoch [42/100], loss:0.0893
+epoch [43/100], loss:0.0883
+epoch [44/100], loss:0.0873
+epoch [45/100], loss:0.0863
+epoch [46/100], loss:0.0858
+epoch [47/100], loss:0.0851
+epoch [48/100], loss:0.0842
+epoch [49/100], loss:0.0831
+epoch [50/100], loss:0.0826
+Pixel Auroc:0.829, Sample Auroc:0.695, Pixel Aupro:0.571, Best F1:0.307, Best Threshold:0.326
+epoch [51/100], loss:0.0819
+epoch [52/100], loss:0.0816
+epoch [53/100], loss:0.0806
+epoch [54/100], loss:0.0803
+epoch [55/100], loss:0.0792
+epoch [56/100], loss:0.0791
+epoch [57/100], loss:0.0784
+epoch [58/100], loss:0.0776
+epoch [59/100], loss:0.0770
+epoch [60/100], loss:0.0768
+Pixel Auroc:0.837, Sample Auroc:0.659, Pixel Aupro:0.581, Best F1:0.318, Best Threshold:0.327
+epoch [61/100], loss:0.0760
+epoch [62/100], loss:0.0756
+epoch [63/100], loss:0.0750
+epoch [64/100], loss:0.0746
+epoch [65/100], loss:0.0743
+epoch [66/100], loss:0.0738
+epoch [67/100], loss:0.0733
+epoch [68/100], loss:0.0726
+epoch [69/100], loss:0.0723
+epoch [70/100], loss:0.0722
+Pixel Auroc:0.829, Sample Auroc:0.649, Pixel Aupro:0.570, Best F1:0.307, Best Threshold:0.317
+epoch [71/100], loss:0.0714
+epoch [72/100], loss:0.0711
+epoch [73/100], loss:0.0709
+epoch [74/100], loss:0.0704
+epoch [75/100], loss:0.0698
+epoch [76/100], loss:0.0695
+epoch [77/100], loss:0.0693
+epoch [78/100], loss:0.0689
+epoch [79/100], loss:0.0684
+epoch [80/100], loss:0.0686
+Pixel Auroc:0.825, Sample Auroc:0.676, Pixel Aupro:0.564, Best F1:0.303, Best Threshold:0.315
+epoch [81/100], loss:0.0677
+epoch [82/100], loss:0.0674
+epoch [83/100], loss:0.0674
+epoch [84/100], loss:0.0671
+epoch [85/100], loss:0.0663
+epoch [86/100], loss:0.0664
+epoch [87/100], loss:0.0663
+epoch [88/100], loss:0.0658
+epoch [89/100], loss:0.0651
+epoch [90/100], loss:0.0650
+Pixel Auroc:0.831, Sample Auroc:0.661, Pixel Aupro:0.568, Best F1:0.308, Best Threshold:0.315
+epoch [91/100], loss:0.0647
+epoch [92/100], loss:0.0646
+epoch [93/100], loss:0.0643
+epoch [94/100], loss:0.0644
+epoch [95/100], loss:0.0634
+epoch [96/100], loss:0.0634
+epoch [97/100], loss:0.0632
+epoch [98/100], loss:0.0632
+epoch [99/100], loss:0.0625
+epoch [100/100], loss:0.0626
+Pixel Auroc:0.830, Sample Auroc:0.654, Pixel Aupro:0.574, Best F1:0.311, Best Threshold:0.319
